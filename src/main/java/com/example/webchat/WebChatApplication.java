@@ -2,7 +2,7 @@ package com.example.webchat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//MainClass
 @SpringBootApplication
 public class WebChatApplication {
 
